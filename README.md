@@ -7,7 +7,7 @@ Aplikacja umożliwia dodawanie list do tablicy. Każdej liście mogę przypisać
 
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/1.png)
 
-#JAK PRZYGOTOWUJE PRZYPADKI TESTOWE
+# JAK PRZYGOTOWUJE PRZYPADKI TESTOWE
 
 Przypadki testowe rozpatruje w 3 kategoriach:
 
