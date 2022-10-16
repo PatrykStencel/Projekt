@@ -4,3 +4,5 @@ Celem projektu jest przetestowanie aplikacji typu to-do-list w ramach warsztató
 
 # ZAŁOŻENIA APLIKACJI
 Aplikacja umożliwia dodawanie list do tablicy. Każdej liście mogę przypisać nazwę. Do każdej listy mogę przypisywać wiele zadań (tasków). W ramach każdego zadania mogę skonfigurować tytuł, opis, dodatkowe etykiety.
+
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/1.png)
