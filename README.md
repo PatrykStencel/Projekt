@@ -23,3 +23,5 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/2dok.png)
 
 #### TEST CASE 1 - Przypadek podstawowy: Dodanie 'checkbox list' do zadania - WYNIK POPRAWNY
+
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/task.png)
