@@ -22,4 +22,4 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dokumentacja1.png)
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dokumentacja2.png)
 
-** TEST CASE 1 - Przypadek podstawowy: Dodanie "new task" do istniejącej listy - WYNIK POPRAWNY
+* TEST CASE 1 - Przypadek podstawowy: Dodanie "new task" do istniejącej listy - WYNIK POPRAWNY
