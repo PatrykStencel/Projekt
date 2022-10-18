@@ -19,7 +19,7 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 
 ## TESTOWANY FRAGMENT APLIKACJI 'Add new task to the list' 
 
-![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dokumentacja1.png)
-![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dokumentacja2.png)
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/1dok.png)
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/2dok.png)
 
 ### TEST CASE 1 - Przypadek podstawowy: Dodanie "new task" do istniejącej listy - WYNIK POPRAWNY
