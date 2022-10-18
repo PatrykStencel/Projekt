@@ -18,3 +18,5 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 * techniczne - w ramach testów technicznych jeżeli to możliwe staram się modyfikować kod HTML.
 
 * TESTOWANY FRAGMENT APLIKACJI 'Add new task to the list' 
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dokumentacja1.png)
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dokumentacja2.png)
