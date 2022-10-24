@@ -28,8 +28,8 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 
 ### Dokumentacja dotycząca utworzenia nowej listy.
 
-![image] (https://github.com/PatrykStencel/Projekt/blob/main/img/dok.png)
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dok.png)
 
 #### TEST CASE 2 - Możliwość utworzenia nowej listy bez wpisania tytułu . BUG
 
-![image] (https://github.com/PatrykStencel/Projekt/blob/main/img/testcase2.png)
+![image](https://github.com/PatrykStencel/Projekt/blob/main/img/testcase2.png)
