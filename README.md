@@ -17,7 +17,6 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 
 * techniczne - w ramach testów technicznych jeżeli to możliwe staram się modyfikować kod HTML.
 
-## TESTOWANY FRAGMENT APLIKACJI 'Add checkbox list to a task' 
 
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/1dok.png)
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/2dok.png)
