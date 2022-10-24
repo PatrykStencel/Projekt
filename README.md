@@ -22,7 +22,7 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/1dok.png)
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/2dok.png)
 
-#### TEST CASE 1  Dodanie 'checkbox list' do zadania - WYNIK POPRAWNY
+### TEST CASE 1  Dodanie 'checkbox list' do zadania - WYNIK POPRAWNY
 
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/TestTask.png)
 
@@ -30,6 +30,6 @@ Przypadki testowe rozpatruje w 3 kategoriach:
 
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/dok.png)
 
-#### TEST CASE 2 - Możliwość utworzenia nowej listy bez wpisania tytułu . BUG
+### TEST CASE 2 - Możliwość utworzenia nowej listy bez wpisania tytułu . BUG
 
 ![image](https://github.com/PatrykStencel/Projekt/blob/main/img/testcase2.png)
